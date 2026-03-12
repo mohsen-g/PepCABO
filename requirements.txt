@@ -1,0 +1,21 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+torch==2.0.0
+pytorch-lightning
+gpytorch==1.11
+botorch==0.10.0
+numpy==1.26.4
+pandas==1.5.3
+fire==0.7.0
+bio==1.6.2
+scipy==1.11.3
+wandb==0.22.3
+
+tensorflow_cpu==2.19.0
+keras==3.10.0
+tensorboard==2.19.0
+mhcflurry==2.1.5
+mhcnames==0.4.8
+
+scikit-learn
+tqdm

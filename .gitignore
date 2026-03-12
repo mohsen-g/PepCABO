@@ -1,0 +1,9 @@
+*wandb/
+*__pycache__/
+*.ckpt
+*.csv
+*.pt
+*.pkl
+*.fasta
+*.log
+*.json
